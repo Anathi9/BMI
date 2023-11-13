@@ -1,0 +1,29 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(99, 205, 237)
+}
+.container {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    background-color: grey;
+}
+input {
+    outline: none;
+    border: none;
+    padding: 5px;
+}
+button {
+    color: black;
+    padding: 10px;
+    border: 2px solid black;
+    background: rgb(179, 184, 190);
+    display: block;
+    margin-top: 40px;
+    text-align: center;
+}
